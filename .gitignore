@@ -1,0 +1,7 @@
+checkpoints/
+*.onnx
+wandb/
+.venv/
+__pycache__/
+.kaggle_dataset/
+disney_bdx_paper.pdf
